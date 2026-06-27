@@ -1,6 +1,6 @@
 # SheetLedger – Privacy Policy
 
-[ Auf Deutsch anzeigen 🇩🇪 ](https://yourdomain.com/privacy-de)
+[ Auf Deutsch anzeigen 🇩🇪 ](privacy-de)
 *(This Privacy Policy is also available in German for your convenience.)*
 
 **Last Updated: June 26, 2026**
