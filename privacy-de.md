@@ -1,5 +1,8 @@
 # SheetLedger – Datenschutzerklärung
 
+[ View in English 🇺🇸 ](https://yourdomain.com/privacy-en)
+*(Diese Datenschutzerklärung ist zu Ihrer Bequemlichkeit auch auf Englisch verfügbar.)*
+
 **Zuletzt aktualisiert: 26. Juni 2026**
 
 Diese Datenschutzerklärung erläutert, wie SheetLedger („wir“, „uns“ oder „unser“) mit Ihren Informationen umgeht. SheetLedger wurde als datenschutzfreundliche, dezentrale und serverlose Utility-Anwendung entwickelt. Unsere Kernphilosophie ist einfach: **Ihre Daten gehören Ihnen, und wir haben absolut keinen Zugriff darauf.**
