@@ -1,5 +1,8 @@
 # SheetLedger – Privacy Policy
 
+[ Auf Deutsch anzeigen 🇩🇪 ](https://yourdomain.com/privacy-de)
+*(This Privacy Policy is also available in German for your convenience.)*
+
 **Last Updated: June 26, 2026**
 
 This Privacy Policy explains how SheetLedger ("we", "our", or "us") handles your information. SheetLedger is built as a privacy-first, decentralized, and serverless utility application. Our core philosophy is simple: **Your data belongs to you, and we have absolutely no access to it.**
