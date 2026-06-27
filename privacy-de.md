@@ -1,6 +1,6 @@
 # SheetLedger – Datenschutzerklärung
 
-[ View in English 🇺🇸 ](https://yourdomain.com/privacy-en)
+[ View in English 🇺🇸 ](privacy)
 *(Diese Datenschutzerklärung ist zu Ihrer Bequemlichkeit auch auf Englisch verfügbar.)*
 
 **Zuletzt aktualisiert: 26. Juni 2026**
