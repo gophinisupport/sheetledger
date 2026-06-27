@@ -2,7 +2,7 @@
 
 > **Datenschutzorientiertes, dezentrales Haushaltsbuch für Power-User.**
 
-[ View in English 🇺🇸 ](./) | [ Datenschutzerklärung 🛡️ ](privacy-de)
+[ View in English 🇺🇸 ](/sheetledger/) | [ Datenschutzerklärung 🛡️ ](privacy-de)
 
 ---
 
